@@ -1,2 +1,3 @@
 # tarea2de2
-http://es.tinypic.com/view.php?pic=2lke1og&s=9#.WfEjRmi0NPY imagen cerámicas
+https://tinypng.com/ para disminuir peso
+http://es.tinypic.com/view.php?pic=swpuab&s=9#.WfEle2i0NPY  para disminuir tamaño imagen cerámicas
