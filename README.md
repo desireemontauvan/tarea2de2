@@ -1,3 +1,3 @@
-# tarea2de2
-https://tinypng.com/ para disminuir peso
-http://es.tinypic.com/view.php?pic=swpuab&s=9#.WfEle2i0NPY  para disminuir tamaño imagen cerámicas
+
+Página validada
+https://rawgit.com/desireemontauvan/tarea2de2/master/lenguaje%20de%20marcas%202.html
